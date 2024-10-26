@@ -1,0 +1,18 @@
+Le casse-briques:
+
+
+Le jeu "casse-briques" est un jeu vidéo simple où le joueur contrôle une raquette pour renvoyer une balle vers un mur de briques. 
+
+Le but est de détruire toutes les briques en frappant la balle contre elles.
+
+Si la balle tombe en bas de l'écran sans être renvoyée par la raquette, le joueur perd une vie.
+ 
+Le jeu continue jusqu'à ce que toutes les briques soient détruites ou que le joueur perde toutes ses vies.
+ 
+
+Le programme vous permet de choisir la manière de laquelle vous voulez jouez soit avec les flèches du clavier soit à l'aide de la souris.
+
+Plusieurs menus vont etre affichés pour vous permettre de choisir les paramètres que vous souhaitez donc lisez attentivement et suivez les consignes.
+Soyez surs que votre NUMPAD fonctionne bien.
+
+Votre score sera affiché à la fin sur l'écran si vous avez perdu. Si vous avez gagné, une image va s'afficher en vous montrant combien de vie vous reste.
